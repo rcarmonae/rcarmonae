@@ -3,7 +3,7 @@
 
 - 🔭Actualmente colaboro en el proyecto [Acuerdos del Acuífero](https://acuerdosacuifero.wordpress.com/)
 
-- 🌱 Capacitándome en **GCP, PLANET APIs, Geospatial Data Science**
+- 🌱 En este momento estoy capacitándome en **GCP, PLANET APIs, Geospatial Data Science**
 
 - ⚡ Un poco más sobre mi en [ᯤSpotify](https://open.spotify.com/user/hcuen93?si=2d76e5f80ed747e6)
 

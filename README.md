@@ -3,6 +3,12 @@
 
 - 🔭Actualmente colaboro en el proyecto [Acuerdos del Acuífero](https://acuerdosacuifero.wordpress.com/)
 
+- 🌱 Capacitándome en **GCP, PLANET APIs, Geospatial Data Science**
+
+- ⚡ Un poco más sobre mi en [https://open.spotify.com/user/hcuen93?si=2d76e5f80ed747e6](https://open.spotify.com/user/hcuen93?si=2d76e5f80ed747e6)
+
+- 📫 Contacto **oc.carmona@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rosa-carmona-23246550/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rosa-carmona-23246550/" height="30" width="40" /></a>

@@ -1,4 +1,6 @@
-<h1 align="center">![Descripción de la imagen](github_readme.gif)
+<p align="center">
+  <img src="github_readme.gif" alt="Geospatial Data Science">
+</p>
 
 <h1 align="center">Hola 👋, soy Rosa Carmona</h1>
 <h3 align="center">Soy una profesional apasionada por el análisis geoespacial y la ciencia de datos</h3>

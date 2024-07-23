@@ -1,4 +1,4 @@
-![Descripción de la imagen](github_image.webp)
+![Descripción de la imagen](github_readme.gif)
 
 <h1 align="center">Hola 👋, soy Rosa Carmona</h1>
 <h3 align="center">Soy una profesional apasionada por el análisis geoespacial y la ciencia de datos</h3>
